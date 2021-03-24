@@ -1,0 +1,39 @@
+<Message id=811990302104485930 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<User id=496421626393395252 name='FacuCuzziol' discriminator='1854' bot=False> flags=<MessageFlags value=0>>
+
+<Message id=811989972612939817 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989970239750226 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<User id=496421626393395252 name='FacuCuzziol' discriminator='1854' bot=False> flags=<MessageFlags value=0>>
+
+<Message id=811989905868980255 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<User id=496421626393395252 name='FacuCuzziol' discriminator='1854' bot=False> flags=<MessageFlags value=0>>
+
+<Message id=811989646107869245 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989645285916672 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989644190285884 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989642986913802 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989641900982294 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811989639689928744 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<User id=496421626393395252 name='FacuCuzziol' discriminator='1854' bot=False> flags=<MessageFlags value=0>>
+
+<Message id=811989211242037288 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<User id=496421626393395252 name='FacuCuzziol' discriminator='1854' bot=False> flags=<MessageFlags value=0>>
+
+<Message id=811988925031776317 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988923878342676 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988922435239999 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988921398984775 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988920606654544 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988902931202069 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988901496356906 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988900523802645 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>
+
+<Message id=811988899047407687 channel=<TextChannel id=810348072080900107 name='pruebas' position=1 nsfw=False news=False category_id=808148231644250163> type=<MessageType.default: 0> author=<Member id=808377961051848704 name='Bot-odesla-test' discriminator='4699' bot=True nick=None guild=<Guild id=808148231644250162 name='ODESLA-BOT tests' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>

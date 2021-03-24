@@ -23,7 +23,7 @@ logs/**
 !data/01_raw/iris.csv
 
 # ignore requirements.txt
-requirements.txt
+#requirements.txt
 
 
 ##########################

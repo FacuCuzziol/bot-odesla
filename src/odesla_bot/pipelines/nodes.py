@@ -56,7 +56,7 @@ credentials = client.credentials
 def run_bot_odesla():
 
     bot = commands.Bot(command_prefix="!", description="Bot de ODESLA")
-
+    
     @bot.command()
     async def info(ctx):
         embed = discord.Embed(
@@ -120,6 +120,38 @@ def run_bot_odesla():
     @bot.command()
     async def git(ctx):
         await ctx.send("https://github.com/ODESLA")
+
+    @bot.command()
+    async def statsMessages(ctx):
+
+        def check_greeting(sentence):
+            greetings=['hola','buenas','saludos','nombre','soy']
+            for word in sentence.split():
+                if word in greetings:
+                    return True
+            return False
+        #await ctx.send(dir(ctx.channel.history.messages()))
+        #await ctx.send(ctx.channel.history(limit=10).flatten())
+        counter = 0
+        
+        data = []
+        messages = await ctx.channel.history().flatten()
+
+
+        for message in messages:
+            if (not message.author.bot and message.content !='!statsMessages'):
+                data.append(message.content)
+        #        #counter+=1
+        for sen in data:
+            op_string = re.sub(r'[^\w\s]','',sen).lower()
+            if check_greeting(op_string):
+                counter+=1
+            
+        await ctx.send(counter)
+        #await ctx.send(data)
+
+
+        
 
     @bot.command()
     @commands.is_owner()
